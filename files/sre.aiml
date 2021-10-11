@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>sre</pattern>
+    <template>You might want to consider becoming a Site Reliability Engineer. SREs build and maintain production systems, focusing on reliability, availability and observability. These are often found at big SaaS companies and web startups.
+    
+    See more at https://sre.google/sre-book/table-of-contents/
+            <button>
+                <text>Explore other top CS careers</text>
+                <postback>top careers</postback>
+            </button>
+            <button>
+                <text>Help me select a career</text>
+                <postback>select career</postback>
+            </button>    
+        </template>
+</category>
+</aiml>

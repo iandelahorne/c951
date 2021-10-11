@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>data engineer</pattern>
+    <template>Data engineer might be for you! Data engineers work with designing and implementing systems to collect, analyze and store massive volumes of data.
+    
+    See more at https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one
+            <button>
+                <text>Explore other top CS careers</text>
+                <postback>top careers</postback>
+            </button>
+            <button>
+                <text>Help me select a career</text>
+                <postback>select career</postback>
+            </button>    
+        </template>
+</category>
+</aiml>
